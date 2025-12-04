@@ -26,3 +26,6 @@ DOMAIN-SUFFIX,eudic.net
 
 # > > 货拉拉
 DOMAIN-SUFFIX,huolala.work 
+
+# > > CN
+DOMAIN-WILDCARD,*.cn
