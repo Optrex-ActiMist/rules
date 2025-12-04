@@ -6,7 +6,7 @@ DOMAIN-SUFFIX,parcel.app
 DOMAIN-SUFFIX,parcelapp.net
 
 # > > DNS
-OMAIN-SUFFIX,doh.pub
+DOMAIN-SUFFIX,doh.pub
 
 # > > 国内AI
 DOMAIN-SUFFIX,hailuo.ai
