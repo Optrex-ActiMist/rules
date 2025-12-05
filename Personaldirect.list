@@ -1,8 +1,11 @@
 # > > 自己域名
 DOMAIN-WILDCARD,*.writingpad.xyz
-
 # > > CN
 DOMAIN-WILDCARD,*.cn
+
+# >> DNS
+DOMAIN-SUFFIX,doh.pub
+DOMAIN-WILDCARD,*.alidns.com
 
 # > > Parcel
 DOMAIN-SUFFIX,parcel.app
@@ -31,6 +34,29 @@ DOMAIN-SUFFIX,huolala.work
 
 # >> umeng
 DOMAIN-SUFFIX,umeng.com
+
+# >> Lochlauncher
+DOMAIN-SUFFIX,locklauncher.com
+
+# >> Typora 
+DOMAIN-SUFFIX,typora.io
+
+# >> Picsew 
+DOMAIN-SUFFIX,picsew.app
+
+# >> CDN, google CDN
+DOMAIN-SUFFIX,kuiniuca.com
+DOMAIN-SUFFIX,firebaseapp.com
+
+# >> 微信公众号广告推送
+DOMAIN-SUFFIX,forter.com
+
+# >> LaunchOS
+DOMAIN-SUFFIX,remixdesign.app
+
+# >> 时间服务器
+DOMAIN-WILDCARD,*.ntp.org
+
 
 # Tencent Cloud Computing 
 IP-CIDR,43.135.65.253/32,no-resolve
