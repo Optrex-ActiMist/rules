@@ -56,7 +56,7 @@ DOMAIN-SUFFIX,remixdesign.app
 
 # >> 时间服务器
 DOMAIN-WILDCARD,*.ntp.org
-
+DOMAIN-SUFFIX,ntp.nasa.gov
 
 # Tencent Cloud Computing 
 IP-CIDR,43.135.65.253/32,no-resolve
