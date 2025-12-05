@@ -1,12 +1,12 @@
 # > > 自己域名
 DOMAIN-WILDCARD,*.writingpad.xyz
 
+# > > CN
+DOMAIN-WILDCARD,*.cn
+
 # > > Parcel
 DOMAIN-SUFFIX,parcel.app
 DOMAIN-SUFFIX,parcelapp.net
-
-# > > DNS
-DOMAIN-SUFFIX,doh.pub
 
 # > > 国内AI
 DOMAIN-SUFFIX,hailuo.ai
@@ -29,11 +29,7 @@ DOMAIN-SUFFIX,eudic.net
 # > > 货拉拉
 DOMAIN-SUFFIX,huolala.work 
 
-# > > CN
-DOMAIN-WILDCARD,*.cn
-
 # >> umeng
 DOMAIN-SUFFIX,umeng.com
 
-# > > 
 
