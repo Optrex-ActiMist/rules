@@ -1,5 +1,5 @@
 # > > 自己域名
-DOMAIN-SUFFIX,writingpad.xyz
+DOMAIN-WILDCARD,*.writingpad.xyz
 
 # > > Parcel
 DOMAIN-SUFFIX,parcel.app
