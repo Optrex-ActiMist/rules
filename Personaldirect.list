@@ -3,6 +3,13 @@ DOMAIN-WILDCARD,*.writingpad.xyz
 # > > CN
 DOMAIN-WILDCARD,*.cn
 
+# >> 关键字
+DOMAIN-KEYWORD,CMBCHINA
+
+# >> 时间服务器
+DOMAIN-WILDCARD,*.ntp.org
+DOMAIN-SUFFIX,ntp.nasa.gov
+
 # >> DNS
 DOMAIN-SUFFIX,doh.pub
 DOMAIN-WILDCARD,*.alidns.com
@@ -54,9 +61,11 @@ DOMAIN-SUFFIX,forter.com
 # >> LaunchOS
 DOMAIN-SUFFIX,remixdesign.app
 
-# >> 时间服务器
-DOMAIN-WILDCARD,*.ntp.org
-DOMAIN-SUFFIX,ntp.nasa.gov
+# >> 特例
+DOMAIN-SUFFIX,tabobao.com
+DOMAIN-SUFFIX,tencent.com
+DOMAIN-SUFFIX,openai.weixin.qq.com 
+
 
 # Tencent Cloud Computing 
 IP-CIDR,43.135.65.253/32,no-resolve
