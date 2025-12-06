@@ -54,6 +54,7 @@ DOMAIN-SUFFIX,picsew.app
 # >> CDN, google CDN
 DOMAIN-SUFFIX,kuiniuca.com
 DOMAIN-SUFFIX,firebaseapp.com
+DOMAIN-WILDCARD,*.z1cdn.com
 
 # >> 微信公众号广告推送
 DOMAIN-SUFFIX,forter.com
@@ -65,6 +66,8 @@ DOMAIN-SUFFIX,remixdesign.app
 DOMAIN-SUFFIX,tabobao.com
 DOMAIN-SUFFIX,tencent.com
 DOMAIN-SUFFIX,openai.weixin.qq.com 
+DOMAIN-SUFFIX,adjust.net.in
+DOMAIN-SUFFIX,adjust.world
 
 
 # Tencent Cloud Computing 
