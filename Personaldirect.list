@@ -68,6 +68,8 @@ DOMAIN-SUFFIX,tencent.com
 DOMAIN-SUFFIX,openai.weixin.qq.com 
 DOMAIN-SUFFIX,adjust.net.in
 DOMAIN-SUFFIX,adjust.world
+DOMAIN-SUFFIX,sentry.io
+
 
 
 # Tencent Cloud Computing 
