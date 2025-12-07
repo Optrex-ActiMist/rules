@@ -24,6 +24,7 @@ DOMAIN-SUFFIX,hailuo.ai
 # > > Airtable
 DOMAIN-SUFFIX,airtable.com
 DOMAIN-SUFFIX,airtableusercontent.com
+DOMAIN-WILDCARD,*.airtable.com
 
 # > > Futu
 DOMAIN-SUFFIX,futuhn.com
