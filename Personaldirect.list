@@ -22,9 +22,8 @@ DOMAIN-SUFFIX,parcelapp.net
 DOMAIN-SUFFIX,hailuo.ai
 
 # > > Airtable
-DOMAIN-SUFFIX,airtable.com
+DOMAIN-SUFFIX,airtable.com,pre-matching,extended-matching
 DOMAIN-SUFFIX,airtableusercontent.com
-DOMAIN-WILDCARD,*.airtable.com
 
 # > > Futu
 DOMAIN-SUFFIX,futuhn.com
