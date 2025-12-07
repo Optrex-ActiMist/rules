@@ -17,11 +17,9 @@ DOMAIN,apple-relay.fastly-edge.com
 DOMAIN,cp4.cloudflare.com
 DOMAIN,guzzoni.apple.com
 
-# > Claude
+# > Claude (补上blackmatrix7缺的IP地址)
 DOMAIN,servd-anthropic-website.b-cdn.net
-DOMAIN-SUFFIX,claude.ai
 DOMAIN-SUFFIX,claude.com
-DOMAIN-SUFFIX,anthropic.com
 IP-CIDR,160.79.104.0/23,no-resolve
 
 # > Microsoft Copilot
