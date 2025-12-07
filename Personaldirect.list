@@ -23,7 +23,7 @@ DOMAIN-SUFFIX,hailuo.ai
 
 # > > Airtable
 DOMAIN-SUFFIX,airtable.com,pre-matching,extended-matching
-DOMAIN-WILDCARD,*.airtable.com
+# DOMAIN-WILDCARD,*.airtable.com
 DOMAIN-SUFFIX,airtableusercontent.com
 
 # > > Futu
