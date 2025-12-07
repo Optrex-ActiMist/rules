@@ -24,6 +24,7 @@ DOMAIN,cp4.cloudflare.com
 DOMAIN,guzzoni.apple.com
 
 # > Claude
+DOMAIN,servd-anthropic-website.b-cdn.net
 DOMAIN-SUFFIX,claude.ai
 DOMAIN-SUFFIX,anthropic.com
 
