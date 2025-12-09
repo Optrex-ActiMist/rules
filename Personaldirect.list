@@ -51,6 +51,9 @@ DOMAIN-SUFFIX,typora.io
 # >> Picsew 
 DOMAIN-SUFFIX,picsew.app
 
+# >> myweather APP
+DOMAIN-SUFFIX,2q10.com,pre-matching,extended-matching
+
 # >> CDN, google CDN
 DOMAIN-SUFFIX,kuiniuca.com
 DOMAIN-SUFFIX,firebaseapp.com
