@@ -40,3 +40,7 @@ DOMAIN,pplx-res.cloudinary.com
 
 # >>cerebras AI 
 DOMAIN-SUFFIX,cerebras.ai,pre-matching,extended-matching
+
+# >> Groq
+DOMAIN-SUFFIX,groq.com,pre-matching,extended-matching
+
