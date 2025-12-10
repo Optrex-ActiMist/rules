@@ -6,6 +6,10 @@ DOMAIN-SUFFIX,mailtrack.io,pre-matching,extended-matching
 DOMAIN-SUFFIX,cdn.jsdelivr.net
 DOMAIN-SUFFIX,fastly.jsdelivr.net
 
+# >> books
+DOMAIN-KEYWORD,libgen 
+DOMAIN-SUFFIX,annas-archive.org,pre-matching,extended-matching
+
 # Reddit 
 DOMAIN-SUFFIX,redditspace.com 
 
