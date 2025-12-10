@@ -75,7 +75,6 @@ DOMAIN-SUFFIX,sentry.io
 DOMAIN-SUFFIX,jpush.com
 DOMAIN-WILDCARD,*.appsflyersdk.com
 
-
 # Tencent Cloud Computing 
 IP-CIDR,43.135.65.253/32,no-resolve
 IP-CIDR,43.132.107.47/32,no-resolve
@@ -102,3 +101,6 @@ IP-CIDR,52.68.117.1/32,no-resolve
 IP-CIDR,54.150.106.1/32,no-resolve
 IP-CIDR,35.77.148.188/32,no-resolve
 
+# >> others
+DOMAIN-SUFFIX,t66y.com
+DOMAIN-SUFFIX,rmdown.com
