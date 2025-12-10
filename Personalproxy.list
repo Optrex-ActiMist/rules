@@ -6,4 +6,5 @@ DOMAIN-SUFFIX,qpic.ws
 DOMAIN-SUFFIX,imgccc.com
 DOMAIN-SUFFIX,11img.com,pre-matching,extended-matching
 DOMAIN-SUFFIX,redircdn.com,pre-matching,extended-matching
-
+DOMAIN-SUFFIX,vimeo.com,pre-matching,extended-matching
+DOMAIN-SUFFIX,hubspot.com,pre-matching,extended-matching
