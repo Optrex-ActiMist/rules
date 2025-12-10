@@ -11,7 +11,7 @@ DOMAIN-KEYWORD,libgen
 DOMAIN-SUFFIX,annas-archive.org,pre-matching,extended-matching
 
 # Reddit 
-DOMAIN-SUFFIX,redditspace.com 
+DOMAIN-SUFFIX,redditspace.com,pre-matching,extended-matching
 
 # >> t66y.com
 DOMAIN-SUFFIX,t66y.com
