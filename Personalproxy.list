@@ -8,6 +8,7 @@ DOMAIN-SUFFIX,fastly.jsdelivr.net
 
 # >> books
 DOMAIN-KEYWORD,libgen 
+DOMAIN-KEYWORD,zlib
 DOMAIN-SUFFIX,annas-archive.org,pre-matching,extended-matching
 
 # Reddit 
