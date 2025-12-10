@@ -37,3 +37,6 @@ DOMAIN-SUFFIX,x.ai
 DOMAIN-SUFFIX,perplexity.ai
 DOMAIN-SUFFIX,pplx.ai
 DOMAIN,pplx-res.cloudinary.com
+
+# >>cerebras AI 
+DOMAIN-SUFFIX,cerebras.ai,pre-matching,extended-matching
