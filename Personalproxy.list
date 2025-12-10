@@ -1,4 +1,9 @@
 # >> t66y.com
 DOMAIN-SUFFIX,t66y.com
 DOMAIN-SUFFIX,rmdown.com
+DOMAIN-SUFFIX,23img.com
+DOMAIN-SUFFIX,qpic.ws
+DOMAIN-SUFFIX,imgccc.com
+DOMAIN-SUFFIX,11img.com,pre-matching,extended-matching
+DOMAIN-SUFFIX,redircdn.com,pre-matching,extended-matching
 
