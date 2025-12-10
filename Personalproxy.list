@@ -1,3 +1,12 @@
+# Mailsuite 
+DOMAIN-SUFFIX,mailsuite.com,pre-matching,extended-matching
+DOMAIN-SUFFIX,mailtrack.io,pre-matching,extended-matching
+
+# >> jsdelivr.net
+DOMAIN-SUFFIX,cdn.jsdelivr.net
+DOMAIN-SUFFIX,fastly.jsdelivr.net
+
+
 # >> t66y.com
 DOMAIN-SUFFIX,t66y.com
 DOMAIN-SUFFIX,rmdown.com
@@ -10,6 +19,11 @@ DOMAIN-SUFFIX,imgur.com,pre-matching,extended-matching
 DOMAIN-SUFFIX,11img.com,pre-matching,extended-matching
 DOMAIN-SUFFIX,redircdn.com,pre-matching,extended-matching
 
+# >> Yandex
+DOMAIN-SUFFIX,yandex.com,pre-matching,extended-matching
+DOMAIN-SUFFIX,yandex.net,pre-matching,extended-matching
+DOMAIN-SUFFIX,yonder.ru,pre-matching,extended-matching
+DOMAIN-SUFFIX,yastatic.net,pre-matching,extended-matching
 
 # >> 其它
 DOMAIN-SUFFIX,vimeo.com,pre-matching,extended-matching
