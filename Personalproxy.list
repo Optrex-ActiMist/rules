@@ -4,9 +4,15 @@ DOMAIN-SUFFIX,rmdown.com
 DOMAIN-SUFFIX,23img.com
 DOMAIN-SUFFIX,qpic.ws
 DOMAIN-SUFFIX,imgccc.com
+DOMAIN-SUFFIX,66img.cc
+DOMAIN-SUFFIX,smmimg.com
+DOMAIN-SUFFIX,imgur.com,pre-matching,extended-matching
 DOMAIN-SUFFIX,11img.com,pre-matching,extended-matching
 DOMAIN-SUFFIX,redircdn.com,pre-matching,extended-matching
 
+
 # >> 其它
 DOMAIN-SUFFIX,vimeo.com,pre-matching,extended-matching
+DOMAIN-SUFFIX,vimeocdn.com,pre-matching,extended-matching
 DOMAIN-SUFFIX,hubspot.com,pre-matching,extended-matching
+DOMAIN-SUFFIX,cococut.net,pre-matching,extended-matching
