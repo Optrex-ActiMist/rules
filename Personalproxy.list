@@ -11,8 +11,14 @@ DOMAIN-KEYWORD,libgen
 DOMAIN-KEYWORD,zlib
 DOMAIN-SUFFIX,annas-archive.org,pre-matching,extended-matching
 
-# Reddit 
+# >> Reddit 
 DOMAIN-SUFFIX,redditspace.com,pre-matching,extended-matching
+
+# >> warp
+DOMAIN-SUFFIX,warp.dev 
+
+# >> Stripe 
+DOMAIN-KEYWORD,stripe
 
 # >> t66y.com
 DOMAIN-SUFFIX,t66y.com
