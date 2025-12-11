@@ -1,6 +1,6 @@
 # Mailsuite 
-DOMAIN-SUFFIX,mailsuite.com,pre-matching,extended-matching
-DOMAIN-SUFFIX,mailtrack.io,pre-matching,extended-matching
+DOMAIN-SUFFIX,mailsuite.com
+DOMAIN-SUFFIX,mailtrack.io
 
 # >> jsdelivr.net
 DOMAIN-SUFFIX,cdn.jsdelivr.net
@@ -9,10 +9,10 @@ DOMAIN-SUFFIX,fastly.jsdelivr.net
 # >> books
 DOMAIN-KEYWORD,libgen 
 DOMAIN-KEYWORD,zlib
-DOMAIN-SUFFIX,annas-archive.org,pre-matching,extended-matching
+DOMAIN-SUFFIX,annas-archive.org
 
 # >> Reddit 
-DOMAIN-SUFFIX,redditspace.com,pre-matching,extended-matching
+DOMAIN-SUFFIX,redditspace.com
 
 # >> warp
 DOMAIN-SUFFIX,warp.dev 
@@ -28,18 +28,18 @@ DOMAIN-SUFFIX,qpic.ws
 DOMAIN-SUFFIX,imgccc.com
 DOMAIN-SUFFIX,66img.cc
 DOMAIN-SUFFIX,smmimg.com
-DOMAIN-SUFFIX,imgur.com,pre-matching,extended-matching
-DOMAIN-SUFFIX,11img.com,pre-matching,extended-matching
-DOMAIN-SUFFIX,redircdn.com,pre-matching,extended-matching
+DOMAIN-SUFFIX,imgur.com
+DOMAIN-SUFFIX,11img.com
+DOMAIN-SUFFIX,redircdn.com
 
 # >> Yandex
-DOMAIN-SUFFIX,yandex.com,pre-matching,extended-matching
-DOMAIN-SUFFIX,yandex.net,pre-matching,extended-matching
-DOMAIN-SUFFIX,yonder.ru,pre-matching,extended-matching
-DOMAIN-SUFFIX,yastatic.net,pre-matching,extended-matching
+DOMAIN-SUFFIX,yandex.com
+DOMAIN-SUFFIX,yandex.net
+DOMAIN-SUFFIX,yonder.ru
+DOMAIN-SUFFIX,yastatic.net
 
 # >> 其它
-DOMAIN-SUFFIX,vimeo.com,pre-matching,extended-matching
-DOMAIN-SUFFIX,vimeocdn.com,pre-matching,extended-matching
-DOMAIN-SUFFIX,hubspot.com,pre-matching,extended-matching
-DOMAIN-SUFFIX,cococut.net,pre-matching,extended-matching
+DOMAIN-SUFFIX,vimeo.com
+DOMAIN-SUFFIX,vimeocdn.com
+DOMAIN-SUFFIX,hubspot.com
+DOMAIN-SUFFIX,cococut.net
