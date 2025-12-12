@@ -6,6 +6,9 @@ DOMAIN-SUFFIX,mailtrack.io
 DOMAIN-SUFFIX,cdn.jsdelivr.net
 DOMAIN-SUFFIX,fastly.jsdelivr.net
 
+# >> CDN 
+DOMAIN-SUFFIX,fastly-edge.com
+
 # >> books
 DOMAIN-KEYWORD,libgen 
 DOMAIN-KEYWORD,zlib
