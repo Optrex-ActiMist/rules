@@ -23,6 +23,9 @@ DOMAIN-SUFFIX,warp.dev
 # >> Notion 
 DOMAIN-SUFFIX,notionusercontent.com
 
+# >> Wikipedia 
+DOMAIN-SUFFIX,wikipedia.org
+
 # >> Stripe 
 DOMAIN-KEYWORD,stripe
 
