@@ -18,7 +18,10 @@ DOMAIN-SUFFIX,annas-archive.org
 DOMAIN-SUFFIX,redditspace.com
 
 # >> warp
-DOMAIN-SUFFIX,warp.dev 
+DOMAIN-SUFFIX,warp.dev
+
+# >> Notion 
+DOMAIN-SUFFIX,notionusercontent.com
 
 # >> Stripe 
 DOMAIN-KEYWORD,stripe
