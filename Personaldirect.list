@@ -76,6 +76,12 @@ DOMAIN-SUFFIX,remixdesign.app
 # >> 腾道
 DOMAIN-SUFFIX,tendata.com
 
+# >> 酒店
+DOMAIN-SUFFIX,hilton.com
+DOMAIN-SUFFIX,marriott.com
+DOMAIN-SUFFIX,hyatt.com
+DOMAIN-SUFFIX,ihg.com
+
 # >> 特例
 DOMAIN-SUFFIX,tabobao.com
 DOMAIN-SUFFIX,tencent.com
