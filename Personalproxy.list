@@ -32,12 +32,6 @@ DOMAIN-KEYWORD,stripe
 # >> 机构
 DOMAIN-SUFFIX,fda.gov
 
-# >> 酒店
-DOMAIN-SUFFIX,hilton.com
-DOMAIN-SUFFIX,marriott.com
-DOMAIN-SUFFIX,hyatt.com
-DOMAIN-SUFFIX,ihg.com
-
 # >> t66y.com
 DOMAIN-SUFFIX,t66y.com
 DOMAIN-SUFFIX,rmdown.com
