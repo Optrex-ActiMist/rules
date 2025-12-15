@@ -9,6 +9,9 @@ DOMAIN-SUFFIX,fastly.jsdelivr.net
 # >> CDN 
 DOMAIN-SUFFIX,fastly-edge.com
 
+# >> search engine
+DOMAIN-SUFFIX,brave.com
+
 # >> books
 DOMAIN-KEYWORD,libgen 
 DOMAIN-KEYWORD,zlib
