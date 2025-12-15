@@ -33,6 +33,9 @@ DOMAIN-SUFFIX,githubcopilot.com
 # > Grok
 DOMAIN-SUFFIX,grok.com
 DOMAIN-SUFFIX,x.ai
+DOMAIN-SUFFIX,grokipedia.com
+DOMAIN-SUFFIX,grokusercontent.com
+
 
 # > Perplexity
 DOMAIN-SUFFIX,perplexity.ai
