@@ -23,6 +23,9 @@ DOMAIN-SUFFIX,warp.dev
 # >> Notion 
 DOMAIN-SUFFIX,notionusercontent.com
 
+# >> Cubox 
+DOMAIN-SUFFIX,cubox.cc
+
 # >> Wikipedia 
 DOMAIN-SUFFIX,wikipedia.org
 
