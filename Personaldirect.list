@@ -67,9 +67,6 @@ DOMAIN-SUFFIX,typora.io
 # >> Picsew 
 DOMAIN-SUFFIX,picsew.app
 
-# >> warp 
-DOMAIN-SUFFIX,warp.dev
-
 # >> myweather APP
 DOMAIN-SUFFIX,2q10.com,pre-matching,extended-matching
 
