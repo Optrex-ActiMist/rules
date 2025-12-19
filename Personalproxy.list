@@ -1,6 +1,3 @@
-# Racknerd 服务器 （直接连的话，延迟很高丢包严重）
-IP-CIDR,193.42.60.45,no-resolve
-
 # Mailsuite 
 DOMAIN-SUFFIX,mailsuite.com
 DOMAIN-SUFFIX,mailtrack.io
