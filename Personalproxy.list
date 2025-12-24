@@ -17,6 +17,12 @@ DOMAIN-KEYWORD,libgen
 DOMAIN-KEYWORD,zlib
 DOMAIN-SUFFIX,annas-archive.org
 
+# >> Airtable
+DOMAIN-SUFFIX,airtable.com
+
+# >> gamma.app
+DOMAIN-SUFFIX,gamma.app
+
 # >> Reddit 
 DOMAIN-SUFFIX,redditspace.com
 
