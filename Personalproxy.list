@@ -3,11 +3,11 @@ DOMAIN-SUFFIX,mailsuite.com
 DOMAIN-SUFFIX,mailtrack.io
 
 # >> jsdelivr.net
-DOMAIN-SUFFIX,cdn.jsdelivr.net
-DOMAIN-SUFFIX,fastly.jsdelivr.net
+# DOMAIN-SUFFIX,cdn.jsdelivr.net
+# DOMAIN-SUFFIX,fastly.jsdelivr.net
 
 # >> CDN 
-DOMAIN-SUFFIX,fastly-edge.com
+# DOMAIN-SUFFIX,fastly-edge.com
 
 # >> search engine
 DOMAIN-SUFFIX,brave.com
@@ -25,6 +25,7 @@ DOMAIN-SUFFIX,gamma.app
 
 # >> Reddit 
 DOMAIN-SUFFIX,redditspace.com
+DOMAIN-SUFFIX,reddit.com
 
 # >> Notion 
 DOMAIN-SUFFIX,notionusercontent.com
