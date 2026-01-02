@@ -82,7 +82,7 @@ DOMAIN-WILDCARD,*.z1cdn.com
 DOMAIN-SUFFIX,rudderstack.com
 
 # >> 微信公众号广告推送
-DOMAIN-SUFFIX,forter.com
+# DOMAIN-SUFFIX,forter.com
 
 # >> 腾道
 DOMAIN-SUFFIX,tendata.com
