@@ -1,3 +1,31 @@
+# >> books
+DOMAIN-KEYWORD,libgen 
+DOMAIN-KEYWORD,zlib
+DOMAIN-SUFFIX,annas-archive.org
+
+# >> CDN 
+DOMAIN-SUFFIX,fastly-edge.com
+
+# Cloudflare
+DOMAIN-SUFFIX,cloudflare.com
+
+# >> Crypto
+DOMAIN-SUFFIX,binance.info
+DOMAIN-SUFFIX,bybit.com
+DOMAIN-SUFFIX,coinbase.com
+DOMAIN-SUFFIX,coingecko.com
+DOMAIN-SUFFIX,coinmarketcap.com
+DOMAIN-SUFFIX,huobi.com
+DOMAIN-SUFFIX,htx.com
+
+# >> Cubox 
+DOMAIN-SUFFIX,cubox.cc
+# Vultr.com
+DOMAIN-SUFFIX,vultr.com
+
+# >> gamma.app
+DOMAIN-SUFFIX,gamma.app
+
 # Mailsuite 
 DOMAIN-SUFFIX,mailsuite.com
 DOMAIN-SUFFIX,mailtrack.io
@@ -6,38 +34,18 @@ DOMAIN-SUFFIX,mailtrack.io
 DOMAIN-SUFFIX,cdn.jsdelivr.net
 DOMAIN-SUFFIX,fastly.jsdelivr.net
 
-# >> CDN 
-DOMAIN-SUFFIX,fastly-edge.com
-
-# >> search engine
-DOMAIN-SUFFIX,brave.com
-
-# >> books
-DOMAIN-KEYWORD,libgen 
-DOMAIN-KEYWORD,zlib
-DOMAIN-SUFFIX,annas-archive.org
-
-# >> gamma.app
-DOMAIN-SUFFIX,gamma.app
+# >> Notion 
+DOMAIN-SUFFIX,notionusercontent.com
 
 # >> Reddit 
 DOMAIN-SUFFIX,redditspace.com
 DOMAIN-SUFFIX,reddit.com
 
-# >> Notion 
-DOMAIN-SUFFIX,notionusercontent.com
-
-# >> Cubox 
-DOMAIN-SUFFIX,cubox.cc
-
-# >> Wikipedia 
-DOMAIN-SUFFIX,wikipedia.org
+# >> search engine
+DOMAIN-SUFFIX,brave.com
 
 # >> Stripe 
 DOMAIN-KEYWORD,stripe
-
-# >> 机构
-DOMAIN-SUFFIX,fda.gov
 
 # >> t66y.com
 DOMAIN-SUFFIX,t66y.com
@@ -57,20 +65,18 @@ DOMAIN-SUFFIX,yandex.net
 DOMAIN-SUFFIX,yonder.ru
 DOMAIN-SUFFIX,yastatic.net
 
+# >> Wikipedia 
+DOMAIN-SUFFIX,wikipedia.org
+
+# >> 机构
+DOMAIN-SUFFIX,fda.gov
+
 # >> 其它
 DOMAIN-SUFFIX,vimeo.com
 DOMAIN-SUFFIX,vimeocdn.com
 DOMAIN-SUFFIX,hubspot.com
 DOMAIN-SUFFIX,cococut.net
 
-# >> Crypto
-DOMAIN-SUFFIX,binance.info
-DOMAIN-SUFFIX,bybit.com
-DOMAIN-SUFFIX,coinbase.com
-DOMAIN-SUFFIX,coingecko.com
-DOMAIN-SUFFIX,coinmarketcap.com
-DOMAIN-SUFFIX,huobi.com
-DOMAIN-SUFFIX,htx.com
 DOMAIN-SUFFIX,kraken.com
 DOMAIN-SUFFIX,okex.com
 DOMAIN-SUFFIX,okx.com
