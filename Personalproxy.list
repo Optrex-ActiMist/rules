@@ -1,3 +1,8 @@
+# > > Airtable
+DOMAIN-SUFFIX,airtable.com,pre-matching,extended-matching
+DOMAIN-SUFFIX,airtableusercontent.com
+DOMAIN-SUFFIX,gedgrp.airtable.com
+
 # >> books
 DOMAIN-KEYWORD,libgen 
 DOMAIN-KEYWORD,zlib
