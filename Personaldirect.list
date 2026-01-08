@@ -18,11 +18,6 @@ DOMAIN-SUFFIX,ntp.nasa.gov
 # > > 国内AI
 DOMAIN-SUFFIX,hailuo.ai
 
-# > > Airtable
-DOMAIN-SUFFIX,airtable.com,pre-matching,extended-matching
-DOMAIN-SUFFIX,airtableusercontent.com
-DOMAIN-SUFFIX,gedgrp.airtable.com
-
 # >> Arc
 DOMAIN-SUFFIX,arc.net
 
