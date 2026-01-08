@@ -103,4 +103,8 @@ DOMAIN-SUFFIX,groq.com,pre-matching,extended-matching
 DOMAIN-SUFFIX,skywork.ai,pre-matching,extended-matching
 DOMAIN-SUFFIX,skyworkcdn.com
 
+# >> Openrouter
+DOMAIN-SUFFIX,openrouter.ai
 
+# >> MiroThinker
+DOMAIN-SUFFIX,miromind.ai
