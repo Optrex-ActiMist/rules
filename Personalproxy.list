@@ -39,10 +39,6 @@ DOMAIN-SUFFIX,mailtrack.io
 DOMAIN-SUFFIX,cdn.jsdelivr.net
 DOMAIN-SUFFIX,fastly.jsdelivr.net
 
-# >> Reddit 
-DOMAIN-SUFFIX,redditspace.com
-DOMAIN-SUFFIX,reddit.com
-
 # >> search engine
 DOMAIN-SUFFIX,brave.com
 
