@@ -14,15 +14,6 @@ DOMAIN-SUFFIX,fastly-edge.com
 # Cloudflare
 DOMAIN-SUFFIX,cloudflare.com
 
-# >> Crypto
-DOMAIN-SUFFIX,binance.info
-DOMAIN-SUFFIX,bybit.com
-DOMAIN-SUFFIX,coinbase.com
-DOMAIN-SUFFIX,coingecko.com
-DOMAIN-SUFFIX,coinmarketcap.com
-DOMAIN-SUFFIX,huobi.com
-DOMAIN-SUFFIX,htx.com
-
 # >> Cubox 
 DOMAIN-SUFFIX,cubox.cc
 # Vultr.com
