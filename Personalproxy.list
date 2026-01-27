@@ -1,3 +1,6 @@
+# > > 1Password
+DOMAIN-SUFFIX,1password.com
+
 # > > Airtable
 DOMAIN-SUFFIX,airtable.com,pre-matching,extended-matching
 DOMAIN-SUFFIX,airtableusercontent.com
@@ -56,6 +59,7 @@ DOMAIN-SUFFIX,yastatic.net
 
 # >> Wikipedia 
 DOMAIN-SUFFIX,wikipedia.org
+DOMAIN-SUFFIX,wikimedia.org
 
 # >> 机构
 DOMAIN-SUFFIX,fda.gov
