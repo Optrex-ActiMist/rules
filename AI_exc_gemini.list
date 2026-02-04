@@ -1,3 +1,16 @@
+# > Apple Intelligence
+DOMAIN-SUFFIX,apps.mzstatic.com
+DOMAIN-SUFFIX,smoot.apple.com
+DOMAIN,gspe1-ssl.ls.apple.com
+DOMAIN,apple-relay.apple.com
+DOMAIN,apple-relay.cloudflare.com
+DOMAIN,apple-relay.fastly-edge.com
+DOMAIN,cp4.cloudflare.com
+DOMAIN,guzzoni.apple.com
+
+# >>cerebras AI 
+DOMAIN-SUFFIX,cerebras.ai,pre-matching,extended-matching
+
 # > ChatGPT
 DOMAIN-SUFFIX,chat.com
 DOMAIN-SUFFIX,chatgpt.com
@@ -12,16 +25,6 @@ DOMAIN,o33249.ingest.sentry.io
 DOMAIN,openaiapi-site.azureedge.net
 DOMAIN-KEYWORD,openaiapi
 DOMAIN-KEYWORD,openaicom
-
-# > Apple Intelligence
-DOMAIN-SUFFIX,apps.mzstatic.com
-DOMAIN-SUFFIX,smoot.apple.com
-DOMAIN,gspe1-ssl.ls.apple.com
-DOMAIN,apple-relay.apple.com
-DOMAIN,apple-relay.cloudflare.com
-DOMAIN,apple-relay.fastly-edge.com
-DOMAIN,cp4.cloudflare.com
-DOMAIN,guzzoni.apple.com
 
 # > Claude (补上blackmatrix7缺的IP地址)
 DOMAIN,servd-anthropic-website.b-cdn.net
@@ -87,24 +90,28 @@ DOMAIN-SUFFIX,x.ai
 DOMAIN-SUFFIX,grokipedia.com
 DOMAIN-SUFFIX,grokusercontent.com
 
+# >> Groq
+DOMAIN-SUFFIX,groq.com,pre-matching,extended-matching
+
+# >> MiroThinker
+DOMAIN-SUFFIX,miromind.ai
+
+# >> Openrouter
+DOMAIN-SUFFIX,openrouter.ai
 
 # > Perplexity
 DOMAIN-SUFFIX,perplexity.ai
 DOMAIN-SUFFIX,pplx.ai
 DOMAIN,pplx-res.cloudinary.com
 
-# >>cerebras AI 
-DOMAIN-SUFFIX,cerebras.ai,pre-matching,extended-matching
-
-# >> Groq
-DOMAIN-SUFFIX,groq.com,pre-matching,extended-matching
-
 # >> skywork 
 DOMAIN-SUFFIX,skywork.ai,pre-matching,extended-matching
 DOMAIN-SUFFIX,skyworkcdn.com
 
-# >> Openrouter
-DOMAIN-SUFFIX,openrouter.ai
+# Typless 
+DOMAIN-SUFFIX,typeless.com
+DOMAIN-SUFFIX,typeless-static.com
 
-# >> MiroThinker
-DOMAIN-SUFFIX,miromind.ai
+# TradingView
+DOMAIN-SUFFIX,tradingview.com 
+
