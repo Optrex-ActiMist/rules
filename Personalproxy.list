@@ -25,13 +25,16 @@ DOMAIN-SUFFIX,vultr.com
 # >> gamma.app
 DOMAIN-SUFFIX,gamma.app
 
+# >> jsdelivr.net
+DOMAIN-SUFFIX,cdn.jsdelivr.net
+DOMAIN-SUFFIX,fastly.jsdelivr.net
+
 # Mailsuite 
 DOMAIN-SUFFIX,mailsuite.com
 DOMAIN-SUFFIX,mailtrack.io
 
-# >> jsdelivr.net
-DOMAIN-SUFFIX,cdn.jsdelivr.net
-DOMAIN-SUFFIX,fastly.jsdelivr.net
+# Plaud
+DOMAIN-SUFFIX,plaud.com
 
 # >> search engine
 DOMAIN-SUFFIX,brave.com
