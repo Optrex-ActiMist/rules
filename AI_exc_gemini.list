@@ -108,10 +108,3 @@ DOMAIN,pplx-res.cloudinary.com
 DOMAIN-SUFFIX,skywork.ai,pre-matching,extended-matching
 DOMAIN-SUFFIX,skyworkcdn.com
 
-# Typless 
-DOMAIN-SUFFIX,typeless.com
-DOMAIN-SUFFIX,typeless-static.com
-
-# TradingView
-DOMAIN-SUFFIX,tradingview.com 
-
