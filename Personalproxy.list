@@ -42,6 +42,13 @@ DOMAIN-SUFFIX,brave.com
 # >> Stripe 
 DOMAIN-KEYWORD,stripe
 
+# Typless 
+DOMAIN-SUFFIX,typeless.com
+DOMAIN-SUFFIX,typeless-static.com
+
+# TradingView
+DOMAIN-SUFFIX,tradingview.com 
+
 # >> t66y.com
 DOMAIN-SUFFIX,t66y.com
 DOMAIN-SUFFIX,rmdown.com
