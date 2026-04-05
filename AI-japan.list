@@ -67,6 +67,9 @@ DOMAIN-SUFFIX,githubcopilot.com
 # > Genspark
 DOMAIN-SUFFIX,genspark.ai
 DOMAIN-SUFFIX,speakly.ai
+DOMAIN-SUFFIX,gensparkspace.com
+DOMAIN-SUFFIX,gensparksite.com
+
 
 # > Grok
 DOMAIN-SUFFIX,grok.com
