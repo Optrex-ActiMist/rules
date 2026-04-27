@@ -17,3 +17,7 @@ DOMAIN-KEYWORD,openaicom
 DOMAIN,servd-anthropic-website.b-cdn.net
 DOMAIN-SUFFIX,claude.com
 IP-CIDR,160.79.104.0/23,no-resolve
+
+# Intercom
+DOMAIN-SUFFIX,intercomcdn.com
+DOMAIN-SUFFIX,intercom.io
