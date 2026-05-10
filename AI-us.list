@@ -17,6 +17,12 @@ DOMAIN,servd-anthropic-website.b-cdn.net
 DOMAIN-SUFFIX,claude.com
 IP-CIDR,160.79.104.0/23,no-resolve
 
+# > Grok
+DOMAIN-SUFFIX,grok.com
+DOMAIN-SUFFIX,x.ai
+DOMAIN-SUFFIX,grokipedia.com
+DOMAIN-SUFFIX,grokusercontent.com
+
 # Intercom
 DOMAIN-SUFFIX,intercomcdn.com
 DOMAIN-SUFFIX,intercom.io
