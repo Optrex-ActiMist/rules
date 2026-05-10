@@ -68,13 +68,6 @@ DOMAIN-SUFFIX,speakly.ai
 DOMAIN-SUFFIX,gensparkspace.com
 DOMAIN-SUFFIX,gensparksite.com
 
-
-# > Grok
-DOMAIN-SUFFIX,grok.com
-DOMAIN-SUFFIX,x.ai
-DOMAIN-SUFFIX,grokipedia.com
-DOMAIN-SUFFIX,grokusercontent.com
-
 # >> Groq
 DOMAIN-SUFFIX,groq.com,pre-matching,extended-matching
 
