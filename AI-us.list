@@ -27,3 +27,7 @@ DOMAIN-SUFFIX,grokusercontent.com
 DOMAIN-SUFFIX,intercomcdn.com
 DOMAIN-SUFFIX,intercom.io
 
+# Crunchbase
+DOMAIN-SUFFIX,crunchbase.com
+
+
