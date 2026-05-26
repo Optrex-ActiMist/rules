@@ -1,12 +1,13 @@
 # > > 自己域名
 DOMAIN-WILDCARD,*.writingpad.xyz
 
+# >> 服务器IP 地址
+IP-CIDR,74.82.194.30/32,DIRECT,no-resolve
+IP-CIDR,192.243.115.7/32,DIRECT,no-resolve
+IP-CIDR,109.107.140.110/32,DIRECT,no-resolve
+
 # > > CN
 DOMAIN-WILDCARD,*.cn
-
-# >> 服务器IP 地址
-IP-CIDR,74.82.194.30,DIRECT,no-resolve
-IP-CIDR,192.243.115.7,DIRECT,no-resolve
 
 # >> 关键字
 DOMAIN-KEYWORD,CMBCHINA
