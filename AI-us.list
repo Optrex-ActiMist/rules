@@ -16,6 +16,7 @@ DOMAIN-KEYWORD,openaicom
 DOMAIN,servd-anthropic-website.b-cdn.net
 DOMAIN-SUFFIX,claude.com
 IP-CIDR,160.79.104.0/23,no-resolve
+IP-CIDR,2607:6bc0::/48,no-resolve
 
 # > Grok
 DOMAIN-SUFFIX,grok.com
