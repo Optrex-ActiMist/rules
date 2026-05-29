@@ -1,10 +1,18 @@
-# > > 自己域名
+# >> 自己域名
 DOMAIN-WILDCARD,*.writingpad.xyz
 
 # >> 服务器IP 地址
 IP-CIDR,74.82.194.30/32,DIRECT,no-resolve
 IP-CIDR,192.243.115.7/32,DIRECT,no-resolve
 IP-CIDR,109.107.140.110/32,DIRECT,no-resolve
+IP-CIDR,193.42.60.45/32,DIRECT,no-resolve
+
+# >> reality 的 target/SNI 地址
+DOMAIN-SUFFIX,docomo.ne.jp
+DOMAIN-SUFFIX,sega.com
+DOMAIN-SUFFIX,lotusthai3.com 
+DOMAIN-SUFFIX,sungeniusstudio.com
+DOMAIN-SUFFIX,themany.com
 
 # > > CN
 DOMAIN-WILDCARD,*.cn
