@@ -24,8 +24,11 @@ DOMAIN-KEYWORD,CMBCHINA
 DOMAIN-WILDCARD,*.ntp.org
 DOMAIN-SUFFIX,ntp.nasa.gov
 
-# > > 国内AI
+# >> 国内AI
 DOMAIN-SUFFIX,hailuo.ai
+
+# >> 沉浸式翻译
+DOMAIN-SUFFIX,imtintl.com
 
 # >> Arc
 DOMAIN-SUFFIX,arc.net
