@@ -8,6 +8,17 @@ DOMAIN,apple-relay.fastly-edge.com
 DOMAIN,cp4.cloudflare.com
 DOMAIN,guzzoni.apple.com
 
+# > > Futu
+DOMAIN-SUFFIX,futuhn.com
+DOMAIN-SUFFIX,futunn.com
+DOMAIN-SUFFIX,moomoo.com
+DOMAIN-SUFFIX,futuhk.com
+DOMAIN-SUFFIX,futufin.com
+DOMAIN-SUFFIX,futuholdings.com
+DOMAIN-SUFFIX,
+DOMAIN-SUFFIX,futufin.com
+DOMAIN-SUFFIX,futuhkapp.com
+
 # >>cerebras AI 
 DOMAIN-SUFFIX,cerebras.ai
 
