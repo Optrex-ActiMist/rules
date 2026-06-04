@@ -7,10 +7,6 @@ IP-CIDR,192.243.115.7/32,DIRECT,no-resolve
 IP-CIDR,109.107.140.110/32,DIRECT,no-resolve
 IP-CIDR,193.42.60.45/32,DIRECT,no-resolve
 
-# >> 香料
-DOMAIN-SUFFIX,genedart.com
-
-
 # >> reality 的 target/SNI 地址
 DOMAIN-SUFFIX,docomo.ne.jp
 DOMAIN-SUFFIX,toyota.com
