@@ -47,11 +47,6 @@ DOMAIN-WILDCARD,*.alidns.com
 DOMAIN-SUFFIX,parcel.app
 DOMAIN-SUFFIX,parcelapp.net
 
-# > > Futu
-DOMAIN-SUFFIX,futuhn.com
-DOMAIN-SUFFIX,futufin.com
-DOMAIN-SUFFIX,futuhkapp.com
-
 # > > SEAGM
 DOMAIN-SUFFIX,seagm.com
 
