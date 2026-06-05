@@ -104,7 +104,6 @@ DOMAIN-SUFFIX,tencent.com
 DOMAIN-SUFFIX,openai.weixin.qq.com 
 DOMAIN-SUFFIX,adjust.net.in
 DOMAIN-SUFFIX,adjust.world
-DOMAIN-SUFFIX,sentry.io
 DOMAIN-SUFFIX,jpush.com
 DOMAIN-WILDCARD,*.appsflyersdk.com
 
