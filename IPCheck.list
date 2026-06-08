@@ -1,4 +1,5 @@
 # IP 地理位置与查询 API
+DOMAIN,ip.cn
 DOMAIN,ip-scan.adspower.net
 DOMAIN-SUFFIX,addr.tools
 DOMAIN-SUFFIX,browserleaks.com
