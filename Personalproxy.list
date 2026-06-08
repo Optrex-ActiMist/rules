@@ -14,9 +14,6 @@ DOMAIN-SUFFIX,annas-archive.org
 # >> CDN 
 DOMAIN-SUFFIX,fastly-edge.com
 
-# Cloudflare
-DOMAIN-SUFFIX,cloudflare.com
-
 # >> Cubox 
 DOMAIN-SUFFIX,cubox.cc
 # Vultr.com
