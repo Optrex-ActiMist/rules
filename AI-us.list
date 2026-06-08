@@ -1,4 +1,4 @@
-# > ChatGPT
+# > > ChatGPT
 DOMAIN-SUFFIX,chat.com
 DOMAIN-SUFFIX,chatgpt.com
 DOMAIN-SUFFIX,livekit.cloud
@@ -12,13 +12,17 @@ DOMAIN,openaiapi-site.azureedge.net
 DOMAIN-KEYWORD,openaiapi
 DOMAIN-KEYWORD,openaicom
 
-# > Claude (补上blackmatrix7缺的IP地址)
+# > > Gemini
+DOMAIN,antigravity-unleash.goog
+DOMAIN,gateway.ai.cloudflare.com
+
+# > > Claude (补上blackmatrix7缺的IP地址)
 DOMAIN,servd-anthropic-website.b-cdn.net
 DOMAIN-SUFFIX,claude.com
 IP-CIDR,160.79.104.0/23,no-resolve
 IP-CIDR,2607:6bc0::/48,no-resolve
 
-# > Grok
+# > > Grok
 DOMAIN-SUFFIX,grok.com
 DOMAIN-SUFFIX,x.ai
 DOMAIN-SUFFIX,grokipedia.com
