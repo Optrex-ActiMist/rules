@@ -68,6 +68,11 @@ DOMAIN-SUFFIX,yastatic.net
 DOMAIN-SUFFIX,wikipedia.org
 DOMAIN-SUFFIX,wikimedia.org
 
+# > > SG WeChat 
+DOMAIN,sgminorshort.wechat.com
+DOMAIN,sgshort.wechat.com
+DOMAIN,sglong.wechat.com
+
 # >> 机构
 DOMAIN-SUFFIX,fda.gov
 
