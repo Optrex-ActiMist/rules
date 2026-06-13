@@ -1,7 +1,7 @@
 ## Mac Software Update (sysin)
-swdist.apple.com
-127.0.0.1 swscan.apple.com
-127.0.0.1 swcdn.apple.com #optional, download url
-127.0.0.1 gdmf.apple.com
-127.0.0.1 mesu.apple.com
-127.0.0.1 xp.apple.com
+DOMAIN-SUFFIX,swdist.apple.com
+DOMAIN-SUFFIX,swscan.apple.com
+DOMAIN-SUFFIX,swcdn.apple.com #optional, download url
+DOMAIN-SUFFIX,gdmf.apple.com
+DOMAIN-SUFFIX,mesu.apple.com
+DOMAIN-SUFFIX,xp.apple.com
