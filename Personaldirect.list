@@ -80,6 +80,9 @@ DOMAIN-SUFFIX,2q10.com,pre-matching,extended-matching
 # >> Warp 
 DOMAIN-SUFFIX,warp.dev
 
+# > > Z.ai
+DOMAIN-SUFFIX,z.ai
+
 # >> CDN, CDP
 DOMAIN-SUFFIX,kuiniuca.com
 DOMAIN-SUFFIX,firebaseapp.com
