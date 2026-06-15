@@ -22,6 +22,7 @@ DOMAIN-SUFFIX,gensparksite.com
 
 # >> Groq
 DOMAIN-SUFFIX,groq.com,pre-matching,extended-matching
+DOMAIN-SUFFIX,groq.io
 
 # >> MiroThinker
 DOMAIN-SUFFIX,miromind.ai
