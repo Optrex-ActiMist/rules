@@ -14,6 +14,8 @@ DOMAIN-SUFFIX,annas-archive.org
 # >> CDN 
 DOMAIN-SUFFIX,fastly-edge.com
 
+# > > Cloudflare
+
 # >> Cubox 
 DOMAIN-SUFFIX,cubox.cc
 # Vultr.com
@@ -42,6 +44,10 @@ DOMAIN-KEYWORD,stripe
 # Typless 
 DOMAIN-SUFFIX,typeless.com
 DOMAIN-SUFFIX,typeless-static.com
+
+# > > 语音输入法
+DOMAIN-SUFFIX,spokenly.app 
+DOMAIN-SUFFIX,soniox.com
 
 # TradingView
 DOMAIN-SUFFIX,tradingview.com 
