@@ -23,6 +23,7 @@ DOMAIN-KEYWORD,CMBCHINA
 # >> 时间服务器
 DOMAIN-WILDCARD,*.ntp.org
 DOMAIN-SUFFIX,ntp.nasa.gov
+DOMAIN-SUFFIX,time.asia.apple.com
 
 # >> 国内AI
 DOMAIN-SUFFIX,hailuo.ai
