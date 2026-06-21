@@ -14,7 +14,7 @@ DOMAIN-SUFFIX,auth.openai.com
 DOMAIN-SUFFIX,api.statsig.com
 DOMAIN-SUFFIX,o33249.ingest.sentry.io
 DOMAIN-SUFFIX,ios.chat.openai.com
-DOMAIN-SUFFIX,o33249.ingest.us.sentry.io
+DOMAIN-SUFFIX,ingest.us.sentry.io
 DOMAIN-SUFFIX,ab.chatgpt.com
 DOMAIN-SUFFIX,api.revenuecat.com
 DOMAIN-SUFFIX,openaiapi-site.azureedge.net
