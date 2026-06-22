@@ -28,10 +28,6 @@ DOMAIN-SUFFIX,gamma.app
 DOMAIN-SUFFIX,cdn.jsdelivr.net
 DOMAIN-SUFFIX,fastly.jsdelivr.net
 
-# Mailsuite 
-DOMAIN-SUFFIX,mailsuite.com
-DOMAIN-SUFFIX,mailtrack.io
-
 # Plaud
 DOMAIN-SUFFIX,plaud.ai
 
