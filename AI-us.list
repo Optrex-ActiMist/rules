@@ -1,36 +1,177 @@
 # > > ChatGPT
+## OpenAI and ChatGPT services.
+## https://github.com/VPSDance/ai-proxy-rules
+
+## Core
+DOMAIN-SUFFIX,ai.com
 DOMAIN-SUFFIX,chat.com
 DOMAIN-SUFFIX,chatgpt.com
-DOMAIN-SUFFIX,ab.chatgpt.com
-DOMAIN-SUFFIX,livekit.cloud
+DOMAIN-SUFFIX,openai.com
+DOMAIN-SUFFIX,chatgpt.livekit.cloud
+DOMAIN-SUFFIX,crixet.com
 DOMAIN-SUFFIX,oaistatic.com
 DOMAIN-SUFFIX,oaiusercontent.com
-DOMAIN-SUFFIX,openai.com
-DOMAIN-SUFFIX,sora.com
-DOMAIN-SUFFIX,cdn.auth0.com
-DOMAIN-SUFFIX,auth.openai.com
-DOMAIN-SUFFIX,cdn.openai.com
-DOMAIN-SUFFIX,auth.openai.com
-DOMAIN-SUFFIX,api.statsig.com
-DOMAIN-SUFFIX,ios.chat.openai.com
-DOMAIN-SUFFIX,sentry.io
-DOMAIN-SUFFIX,api.revenuecat.com
 DOMAIN-SUFFIX,openaiapi-site.azureedge.net
-DOMAIN-SUFFIX,browser-intake-datadoghq.com
+DOMAIN-SUFFIX,openaicom.imgix.net
+DOMAIN-SUFFIX,sora.com
+DOMAIN-SUFFIX,api.statsig.com
+DOMAIN-SUFFIX,api.revenuecat.com
+DOMAIN-KEYWORD,chatgpt-async-webps-prod
 DOMAIN-KEYWORD,openai
-DOMAIN-KEYWORD,chatgpt
 DOMAIN-KEYWORD,openaiapi
 DOMAIN-KEYWORD,openaicom
+PROCESS-NAME,ChatGPT
+PROCESS-NAME,ChatGPT.exe
+PROCESS-NAME,Codex
+PROCESS-NAME,Codex.exe
+PROCESS-NAME,chatgpt
+PROCESS-NAME,codex
+## Network
+IP-CIDR,199.47.142.0/23,no-resolve
+IP-CIDR,24.199.123.28/32,no-resolve
+IP-CIDR,64.23.132.171/32,no-resolve
+IP-CIDR6,2604:f20::/32,no-resolve
+IP-ASN,401518,no-resolve
+## Third-Party
+DOMAIN,browser-intake-datadoghq.com
+DOMAIN,openai-api.arkoselabs.com
+DOMAIN,openaiassets.blob.core.windows.net
+DOMAIN,openaicom-api-bdcpf8c6d2e9atf6.z01.azurefd.net
+DOMAIN,openaicomproductionae4b.blob.core.windows.net
+DOMAIN,production-openaicom-storage.azureedge.net
+DOMAIN,static.cloudflareinsights.com
+DOMAIN-SUFFIX,algolia.net
+DOMAIN-SUFFIX,api.statsig.com
+DOMAIN-SUFFIX,auth0.com
+DOMAIN-SUFFIX,chatgpt.site
+DOMAIN-SUFFIX,client-api.arkoselabs.com
+DOMAIN-SUFFIX,events.statsigapi.net
+DOMAIN-SUFFIX,featuregates.org
+DOMAIN-SUFFIX,host.livekit.cloud
+DOMAIN-SUFFIX,identrust.com
+DOMAIN-SUFFIX,intercom.io
+DOMAIN-SUFFIX,intercomcdn.com
+DOMAIN-SUFFIX,launchdarkly.com
+DOMAIN-SUFFIX,oaistatsig.com
+DOMAIN-SUFFIX,observeit.net
+DOMAIN-SUFFIX,openai.com.cdn.cloudflare.net
+DOMAIN-SUFFIX,segment.io
+DOMAIN-SUFFIX,sentry.io
+DOMAIN-SUFFIX,statsigapi.net
+DOMAIN-SUFFIX,stripe.com
+DOMAIN-SUFFIX,turn.livekit.cloud
 
-# > > Gemini
-DOMAIN,antigravity-unleash.goog
-DOMAIN,gateway.ai.cloudflare.com
+# Google AI product family (Gemini, AI Studio, NotebookLM, Labs, DeepMind, etc.).
+## https://github.com/VPSDance/ai-proxy-rules
+## Core
+DOMAIN-SUFFIX,ai.google.dev
+DOMAIN-SUFFIX,ai.studio
+DOMAIN-SUFFIX,aistudio.google.com
+DOMAIN-SUFFIX,antigravity.google
+DOMAIN-SUFFIX,antigravity.google.com
+DOMAIN-SUFFIX,bard.google.com
+DOMAIN-SUFFIX,deepmind.com
+DOMAIN-SUFFIX,deepmind.google
+DOMAIN-SUFFIX,gemini.google
+DOMAIN-SUFFIX,gemini.google.com
+DOMAIN-SUFFIX,generativeai.google
+DOMAIN-SUFFIX,generativelanguage.googleapis.com
+DOMAIN-SUFFIX,notebooklm.google
+DOMAIN-SUFFIX,notebooklm.google.com
+PROCESS-NAME,Antigravity
+PROCESS-NAME,Antigravity.exe
+PROCESS-NAME,antigravity
+## Third-Party
+DOMAIN,alkalicore-pa.clients6.google.com
+DOMAIN,alkalimakersuite-pa.clients6.google.com
+DOMAIN,antigravity-pa.googleapis.com
+DOMAIN,antigravity.googleapis.com
+DOMAIN,cloudaicompanion.googleapis.com
+DOMAIN,cloudcode-pa.googleapis.com
+DOMAIN,daily-cloudcode-pa.googleapis.com
+DOMAIN,geminiweb-pa.clients.google.com
+DOMAIN,geminiweb-pa.clients6.google.com
+DOMAIN,notebooklm-pa.googleapis.com
+DOMAIN,notebooklm.googleapis.com
+DOMAIN,webchannel-alkalimakersuite-pa.clients6.google.com
+DOMAIN-SUFFIX,aicode.googleapis.com
+DOMAIN-SUFFIX,aida.googleapis.com
+DOMAIN-SUFFIX,aisandbox-pa.googleapis.com
+DOMAIN-SUFFIX,antigravity-unleash.goog
+DOMAIN-SUFFIX,flow.google
+DOMAIN-SUFFIX,flow.google.com
+DOMAIN-SUFFIX,geller-pa.googleapis.com
+DOMAIN-SUFFIX,gemini.gstatic.com
+DOMAIN-SUFFIX,jules.google
+DOMAIN-SUFFIX,jules.google.com
+DOMAIN-SUFFIX,labs.google
+DOMAIN-SUFFIX,labs.google.com
+DOMAIN-SUFFIX,labstailwind.pa.googleapis.com
+DOMAIN-SUFFIX,makersuite.google.com
+DOMAIN-SUFFIX,notebook.google
+DOMAIN-SUFFIX,notebook.google.com
+DOMAIN-SUFFIX,opal.google
+DOMAIN-SUFFIX,opal.google.com
+DOMAIN-SUFFIX,proactivebackend-pa.googleapis.com
+DOMAIN-SUFFIX,robinfrontend-pa.googleapis.com
+DOMAIN-SUFFIX,stitch.withgoogle.com
 
-# > > Claude (补上blackmatrix7缺的IP地址)
-DOMAIN,servd-anthropic-website.b-cdn.net
+# > > Claude 
+## https://github.com/VPSDance/ai-proxy-rules
+
+## Core
+DOMAIN-SUFFIX,anthropic.com
+DOMAIN-SUFFIX,anthropic.com.cn
+DOMAIN-SUFFIX,antspace.dev
+DOMAIN-SUFFIX,clau.de
+DOMAIN-SUFFIX,claude.ai
+DOMAIN-SUFFIX,claude.app
 DOMAIN-SUFFIX,claude.com
+DOMAIN-SUFFIX,claude.new
+DOMAIN-SUFFIX,claude.site
+DOMAIN-SUFFIX,claudemcpclient.com
+DOMAIN-SUFFIX,claudemcpcontent.com
+DOMAIN-SUFFIX,claudepages.dev
+DOMAIN-SUFFIX,claudestudio.com
+DOMAIN-SUFFIX,claudeusercontent.com
+DOMAIN-SUFFIX,modelcontextprotocol.com
+DOMAIN-SUFFIX,modelcontextprotocol.io
+DOMAIN-SUFFIX,modelcontextprotocol.net
+DOMAIN-SUFFIX,modelcontextprotocol.org
+PROCESS-NAME,Claude
+PROCESS-NAME,Claude.exe
+PROCESS-NAME,claude
+PROCESS-NAME,claude.exe
+PROCESS-NAME,cowork-svc.exe
+## Network
 IP-CIDR,160.79.104.0/23,no-resolve
-IP-CIDR,2607:6bc0::/48,no-resolve
+IP-CIDR6,2607:6bc0::/48,no-resolve
+IP-ASN,399358,no-resolve
+## Third-Party
+DOMAIN,anthropic-com.ghost.io
+DOMAIN,anthropic.auth0.com
+DOMAIN,anthropic.com.cdn.cloudflare.net
+DOMAIN,browser-intake-us5-datadoghq.com
+DOMAIN,cdn.growthbook.io
+DOMAIN,cdn.usefathom.com
+DOMAIN,servd-anthropic-website.b-cdn.net
+DOMAIN,storage.googleapis.com
+DOMAIN-SUFFIX,anthropic.team
+DOMAIN-SUFFIX,chatbotclaude.com
+DOMAIN-SUFFIX,claude.dev
+DOMAIN-SUFFIX,intercom.io
+DOMAIN-SUFFIX,intercomcdn.com
+DOMAIN-SUFFIX,interface.feedback
+DOMAIN-SUFFIX,lcicat.org
+DOMAIN-SUFFIX,lcicollections.org
+DOMAIN-SUFFIX,mcpservertest.online
+DOMAIN-SUFFIX,muthos.com
+DOMAIN-SUFFIX,sentry.io
+DOMAIN-SUFFIX,sillylittleguy.org
+DOMAIN-SUFFIX,statsigapi.net
+DOMAIN-KEYWORD,datadog
+DOMAIN-KEYWORD,sentry
+DOMAIN-KEYWORD,sift
 
 # > > Grok
 DOMAIN-SUFFIX,grok.com
@@ -45,6 +186,20 @@ DOMAIN-SUFFIX,intercom.io
 # Mailsuite 
 DOMAIN-SUFFIX,mailsuite.com
 DOMAIN-SUFFIX,mailtrack.io
+
+# Meta AI products (Meta AI chat, Llama).
+# https://github.com/VPSDance/ai-proxy-rules
+DOMAIN,ai.developer.meta.com
+DOMAIN,ai.meta.com
+DOMAIN,aidemos.meta.com
+DOMAIN,developer.meta.com
+DOMAIN,llama.developer.meta.com
+DOMAIN-SUFFIX,atmeta.com
+DOMAIN-SUFFIX,llama.com
+DOMAIN-SUFFIX,llamameta.net
+DOMAIN-SUFFIX,meta.ai
+DOMAIN-SUFFIX,metaaivm.com
+DOMAIN-SUFFIX,muse.ai
 
 # Crunchbase
 DOMAIN-SUFFIX,crunchbase.com
