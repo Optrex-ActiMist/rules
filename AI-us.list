@@ -102,3 +102,7 @@ DOMAIN-SUFFIX,ibkr..com
 DOMAIN-SUFFIX,interactivebrokers.com
 DOMAIN-SUFFIX,firstrade.com
 DOMAIN-SUFFIX,firstrade.net
+
+# > 机构 
+DOMAIN-SUFFIX,nih.gov
+DOMAIN-SUFFIX,fda.gov
