@@ -1,3 +1,9 @@
+# > 美股券商
+DOMAIN-SUFFIX,ibkr..com
+DOMAIN-SUFFIX,interactivebrokers.com
+DOMAIN-SUFFIX,firstrade.com
+DOMAIN-SUFFIX,firstrade.net
+
 # Futu - core domains
 DOMAIN-SUFFIX,futu.link
 DOMAIN-SUFFIX,futu.com
