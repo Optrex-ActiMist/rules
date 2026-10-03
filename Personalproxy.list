@@ -37,13 +37,12 @@ DOMAIN-SUFFIX,brave.com
 # >> Stripe 
 DOMAIN-KEYWORD,stripe
 
-# Typless 
-DOMAIN-SUFFIX,typeless.com
-DOMAIN-SUFFIX,typeless-static.com
-
 # > > 语音输入法
 DOMAIN-SUFFIX,spokenly.app 
 DOMAIN-SUFFIX,soniox.com
+DOMAIN-SUFFIX,typeless.com
+DOMAIN-SUFFIX,typeless-static.com
+DOMAIN-SUFFIX,wisprflow.ai
 
 # TradingView
 DOMAIN-SUFFIX,tradingview.com 
@@ -84,4 +83,6 @@ DOMAIN-SUFFIX,vimeocdn.com
 DOMAIN-SUFFIX,hubspot.com
 DOMAIN-SUFFIX,cococut.net
 DOMAIN-SUFFIX,immersivetranslate.com
+DOMAIN-SUFFIX,readfrog.app
+DOMAIN-SUFFIX,sagernet.org
 
