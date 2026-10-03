@@ -97,12 +97,6 @@ IP-CIDR,64.23.132.171/32,no-resolve
 IP-ASN,14061,no-resolve
 IP-ASN,20473,no-resolve
 
-# > 美股券商
-DOMAIN-SUFFIX,ibkr..com
-DOMAIN-SUFFIX,interactivebrokers.com
-DOMAIN-SUFFIX,firstrade.com
-DOMAIN-SUFFIX,firstrade.net
-
 # > 机构 
 DOMAIN-SUFFIX,nih.gov
 DOMAIN-SUFFIX,fda.gov
