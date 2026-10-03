@@ -113,6 +113,8 @@ DOMAIN-SUFFIX,openai.weixin.qq.com
 DOMAIN-SUFFIX,adjust.net.in
 DOMAIN-SUFFIX,adjust.world
 DOMAIN-SUFFIX,jpush.com
+DOMAIN-SUFFIX,jpush.io
+DOMAIN-SUFFIX,jpush.cn
 DOMAIN-WILDCARD,*.appsflyersdk.com
 
 # Akamai 
