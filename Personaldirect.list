@@ -1,5 +1,5 @@
 # >> 自己域名
-DOMAIN-WILDCARD,*.writingpad.xyz
+DOMAIN-SUFFIX,writingpad.xyz
 
 # >> 服务器IP 地址
 IP-CIDR,74.82.194.30/32,DIRECT,no-resolve
@@ -13,9 +13,15 @@ DOMAIN-SUFFIX,toyota.com
 DOMAIN-SUFFIX,lotusthai3.com 
 DOMAIN-SUFFIX,garphy.com
 DOMAIN-SUFFIX,themany.com
+DOMAIN-SUFFIX,anytimebots.com
 
 # > > CN
 DOMAIN-WILDCARD,*.cn
+
+# > > Airtable
+DOMAIN-SUFFIX,airtable.com,pre-matching,extended-matching
+DOMAIN-SUFFIX,airtableusercontent.com
+DOMAIN-SUFFIX,gedgrp.airtable.com
 
 # >> 关键字
 DOMAIN-KEYWORD,CMBCHINA
