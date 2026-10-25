@@ -40,6 +40,9 @@ DOMAIN-SUFFIX,imtintl.com
 # >> 腾讯
 DOMAIN-SUFFIX,qq.com
 
+# >> 美团
+DOMAIN-SUFFIX,meituan.net 
+
 # >> Arc
 DOMAIN-SUFFIX,arc.net
 
