@@ -29,6 +29,9 @@ DOMAIN,pplx-res.cloudinary.com
 DOMAIN-SUFFIX,skywork.ai,pre-matching,extended-matching
 DOMAIN-SUFFIX,skyworkcdn.com
 
+# >> Cursor
+DOMAIN-SUFFIX,cursor.sh
+
 # >> 其它
 
 
