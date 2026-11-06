@@ -56,6 +56,10 @@ DOMAIN-SUFFIX,chatwise.app
 DOMAIN-SUFFIX,doh.pub
 DOMAIN-WILDCARD,*.alidns.com
 
+# >> 快递
+DOMAIN-SUFFIX,fedex.com
+DOMAIN-SUFFIX,dhl.com
+
 # > > Parcel
 DOMAIN-SUFFIX,parcel.app
 DOMAIN-SUFFIX,parcelapp.net
