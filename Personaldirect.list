@@ -49,6 +49,12 @@ DOMAIN-SUFFIX,arc.net
 # >> Apple 
 DOMAIN-SUFFIX,tether.edge.apple
 
+# >> CDN, CDP
+DOMAIN-SUFFIX,kuiniuca.com
+DOMAIN-SUFFIX,firebaseapp.com
+DOMAIN-WILDCARD,*.z1cdn.com
+DOMAIN-SUFFIX,rudderstack.com
+
 # >> Chatwise 
 DOMAIN-SUFFIX,chatwise.app
 
@@ -56,9 +62,11 @@ DOMAIN-SUFFIX,chatwise.app
 DOMAIN-SUFFIX,doh.pub
 DOMAIN-WILDCARD,*.alidns.com
 
-# >> 快递
-DOMAIN-SUFFIX,fedex.com
-DOMAIN-SUFFIX,dhl.com
+# >> IQAir
+DOMAIN-SUFFIX,iqair.com
+DOMAIN-SUFFIX,airvisual.net
+DOMAIN-SUFFIX,airvisual.io 
+DOMAIN-SUFFIX,airvisual.com
 
 # > > Parcel
 DOMAIN-SUFFIX,parcel.app
@@ -101,11 +109,6 @@ DOMAIN-SUFFIX,warp.dev
 DOMAIN-SUFFIX,z.ai
 DOMAIN-SUFFIX,zenmax.ai
 
-# >> CDN, CDP
-DOMAIN-SUFFIX,kuiniuca.com
-DOMAIN-SUFFIX,firebaseapp.com
-DOMAIN-WILDCARD,*.z1cdn.com
-DOMAIN-SUFFIX,rudderstack.com
 
 # >> 微信公众号广告推送
 # DOMAIN-SUFFIX,forter.com
@@ -118,6 +121,10 @@ DOMAIN-SUFFIX,hilton.com
 DOMAIN-SUFFIX,marriott.com
 DOMAIN-SUFFIX,hyatt.com
 DOMAIN-SUFFIX,ihg.com
+
+# >> 快递
+DOMAIN-SUFFIX,fedex.com
+DOMAIN-SUFFIX,dhl.com
 
 # >> 特例
 DOMAIN-SUFFIX,tabobao.com
