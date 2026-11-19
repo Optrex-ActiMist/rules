@@ -148,6 +148,9 @@ PROCESS-NAME,Claude.exe
 PROCESS-NAME,claude
 PROCESS-NAME,claude.exe
 PROCESS-NAME,cowork-svc.exe
+DOMAIN-KEYWORD,anthropic
+DOMAIN-KEYWORD,claude
+
 ## Network
 IP-CIDR,160.79.104.0/23,no-resolve
 IP-CIDR6,2607:6bc0::/48,no-resolve
@@ -157,10 +160,11 @@ DOMAIN,anthropic-com.ghost.io
 DOMAIN,anthropic.auth0.com
 DOMAIN,anthropic.com.cdn.cloudflare.net
 DOMAIN,browser-intake-us5-datadoghq.com
-DOMAIN,cdn.growthbook.io
-DOMAIN,cdn.usefathom.com
 DOMAIN,servd-anthropic-website.b-cdn.net
 DOMAIN,storage.googleapis.com
+DOMAIN-SUFFIX,growthbook.io
+DOMAIN-SUFFIX,usefathom.com
+DOMAIN-SUFFIX,hcaptcha.com
 DOMAIN-SUFFIX,anthropic.team
 DOMAIN-SUFFIX,chatbotclaude.com
 DOMAIN-SUFFIX,claude.dev
@@ -174,9 +178,12 @@ DOMAIN-SUFFIX,muthos.com
 DOMAIN-SUFFIX,sentry.io
 DOMAIN-SUFFIX,sillylittleguy.org
 DOMAIN-SUFFIX,statsigapi.net
+DOMAIN-SUFFIX,recaptcha.net
+DOMAIN-SUFFIX,webshare.io
 DOMAIN-KEYWORD,datadog
 DOMAIN-KEYWORD,sentry
 DOMAIN-KEYWORD,sift
+DOMAIN-KEYWORD,browser-intake
 
 # > > Grok
 DOMAIN-SUFFIX,grok.com
