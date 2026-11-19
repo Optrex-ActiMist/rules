@@ -1,3 +1,5 @@
 DOMAIN-SUFFIX,play.googleapis.com
 IP-CIDR6,2607:6bc0::/48,REJECT,no-resolve
 IP-CIDR6,2607:6bc0:11::/48,REJECT,no-resolve
+IP-CIDR,160.79.104.0/21,no-resolve
+IP-ASN,399358,no-resolve
