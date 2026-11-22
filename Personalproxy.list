@@ -37,6 +37,7 @@ DOMAIN-SUFFIX,soniox.com
 DOMAIN-SUFFIX,typeless.com
 DOMAIN-SUFFIX,typeless-static.com
 DOMAIN-SUFFIX,wisprflow.ai
+DOMAIN-SUFFIX,wisprflow.com
 
 # TradingView
 DOMAIN-SUFFIX,tradingview.com 
@@ -77,4 +78,7 @@ DOMAIN-SUFFIX,immersivetranslate.com
 DOMAIN-SUFFIX,readfrog.app
 DOMAIN-SUFFIX,sagernet.org
 DOMAIN-SUFFIX,dayflow.so
+DOMAIN-SUFFIX,duckduckgo.com
+DOMAIN-SUFFIX,javbus.com
+
 
