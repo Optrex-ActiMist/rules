@@ -1,7 +1,6 @@
 [Rule]
 DOMAIN,identity.apple.com
-DOMAIN-SUFFIX,push.apple.com
-DOMAIN-SUFFIX,akadns.net
+DOMAIN,push.apple.com
 DOMAIN-KEYWORD,apple.com.edgekey.net
 
 IP-CIDR,17.249.0.0/16,PROXY,no-resolve
