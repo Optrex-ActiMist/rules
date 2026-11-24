@@ -274,3 +274,12 @@ IP-ASN,20473,no-resolve
 # > 机构 
 DOMAIN-SUFFIX,nih.gov
 DOMAIN-SUFFIX,fda.gov
+
+# >> Target和Bestbuy
+DOMAIN-SUFFIX,targetimg1.com
+DOMAIN-SUFFIX,target.com
+DOMAIN-SUFFIX,px-cloud.net
+DOMAIN-SUFFIX,scene7.com
+DOMAIN-SUFFIX,medallia.com
+DOMAIN-SUFFIX,bestbuy.com
+DOMAIN-SUFFIX,bbystatic.com
