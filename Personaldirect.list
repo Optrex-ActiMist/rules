@@ -62,6 +62,9 @@ DOMAIN-SUFFIX,chatwise.app
 DOMAIN-SUFFIX,doh.pub
 DOMAIN-WILDCARD,*.alidns.com
 
+# >> Drafts
+DOMAIN-SUFFIX,getdrafts.com
+
 # >> IQAir
 DOMAIN-SUFFIX,iqair.com
 DOMAIN-SUFFIX,airvisual.net
